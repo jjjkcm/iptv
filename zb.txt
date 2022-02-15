@@ -1,4 +1,4 @@
-
+港澳台测试,#genre#
 鳳凰中文台,P2p://860969650:9906/1cca583ce33142c9840bcf53b030e47c
 鳳凰資訊台,P2p://860969650:9906/c94bbe8b3f9044eaa6ef8a2aaba873d4
 鳳凰香港台,P2p://860969650:9906/1e2d62497f71486cb6f1d6bbe1bbdb4f
@@ -227,7 +227,7 @@ Colors Hindi,P2p://860969650:9906/dd98f44a969642fd9887c0f14c027977
 TVB 星河,P2p://860969650:9906/5f99a3cfce824f6da2fd0c3b6797428a
 天映經典,P2p://860969650:9906/4699a8c6571243a4b5387f6b3c639851
 翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
-
+我的喜爱,#genre#
 JSTAR,rtmp://125.227.196.250:1935/live/JSTAR
 松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
